@@ -16,7 +16,6 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 
 ### Documentation
 - **Government software documentation (ITELAA)** — Software Requirements Specification and complete User Manual for a government application
-- **Pharmacy application QA** — bug reporting and business analysis for a controlled drugs register application
 
 ### Books
 - **AWS books (self-published on Amazon KDP)** — cloud computing explained for two audiences at once: beginners who need clarity and practitioners who need accuracy
