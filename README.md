@@ -24,7 +24,7 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 - [SEO-optimized published technical blogs](./blogs/) — agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company
 
 ### Copywriting
-- [Landing page copy sample — SDaaS company](./copywriting/) 
+- **Website copy for a Germany-based SDaaS company** — wrote and audited copy across all pillar pages (homepage, landing, subscription, blog, and about pages) with on-page SEO. [View homepage copy sample (PDF)](./Landing_Page_Copy_SDaaS_Company_Germany.pdf)
 
 ### Automation
 - **n8n invoice approval workflow** — designed and documented a real approval automation [sample coming soon]
