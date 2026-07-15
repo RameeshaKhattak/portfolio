@@ -18,10 +18,10 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 - **Government software documentation (ITELAA)** — Software Requirements Specification and complete User Manual for a government application
 
 ### Books
-- [Four full length technical books](./books/) — two self-published AWS certification guides on Amazon KDP, plus two ghostwritten titles (ITIL 4 and global project management for remote software teams)
+- **Full-length technical books on cloud computing and IT service management** — self-published AWS certification guides on Amazon KDP under a pen name, plus ghostwritten titles on ITIL 4 and global project management for remote software teams. [View books](./books/)
 
 ### Blogs
-- [SEO-optimized published technical blogs](./blogs/) — agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company
+- **SEO-optimized technical blogs on agentic AI and SaaS** — published pieces covering agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company with keyword research and SERP analysis. [View blogs](./blogs/)
 
 ### Copywriting
 - **Website copy for a Germany-based SDaaS company** — wrote and audited copy across all pillar pages (homepage, landing, subscription, blog, and about pages) with on-page SEO. [View homepage copy sample (PDF)](./Landing_Page_Copy_SDaaS_Company_Germany.pdf)
