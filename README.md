@@ -15,7 +15,8 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 ## Featured Work
 
 ### Documentation
-- **Government software documentation (ITELAA)** — Software Requirements Specification and complete User Manual for a government application
+- **Software Requirements Specification for a government system (ITELAA, KPITB)** — wrote the complete SRS for a system built to digitize the traditional paper-based filing of Police/Levies stations, covering functional requirements for fifteen registers, user classes, interfaces, and nonfunctional requirements. [View SRS (PDF)](./Sanitized_Itella_srs.pdf)
+- **User Manual for a government web application (KPITB)** — wrote a step-by-step user manual for KPITB's Company Evaluation Form, walking users through required documents, login, and all five form steps. [View User Manual (PDF)](./User_manual_for_Company_evalution_form.pdf)
 
 ### Books
 - **Full-length technical books on cloud computing and IT service management** — self-published AWS certification guides on Amazon KDP under a pen name, plus ghostwritten titles on ITIL 4 and global project management for remote software teams. [View books](./books/)
