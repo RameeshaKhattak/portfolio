@@ -22,8 +22,7 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 - **ITIL 4 book (ghostwritten)** — full-length book on IT service management
 
 ### Blogs
-- Five indexed technical blogs for a Germany-based SaaS company covering SDaaS and agentic AI
-- [Links coming soon]
+- [Three seo optimized published technical blogs](./blogs/) — agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company
 
 ### Copywriting
 - [Landing page copy sample — SDaaS company](./copywriting/) 
