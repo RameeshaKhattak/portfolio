@@ -18,7 +18,7 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 - **Government software documentation (ITELAA)** — Software Requirements Specification and complete User Manual for a government application
 
 ### Books
-- [Four Full length technical books](./books/) — two self-published AWS certification guides on Amazon KDP, plus two ghostwritten titles (ITIL 4 and global project management for remote software teams)
+- [Four full length technical books](./books/) — two self-published AWS certification guides on Amazon KDP, plus two ghostwritten titles (ITIL 4 and global project management for remote software teams)
 
 ### Blogs
 - [SEO-optimized published technical blogs](./blogs/) — agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company
