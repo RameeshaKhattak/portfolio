@@ -28,7 +28,7 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 - **Website copy for a Germany-based SDaaS company** — wrote and audited copy across all pillar pages (homepage, landing, subscription, blog, and about pages) with on-page SEO. [View homepage copy sample (PDF)](./Landing_Page_Copy_SDaaS_Company_Germany.pdf)
 
 ### Automation
-- **n8n invoice approval workflow** — designed and documented an end-to-end automated invoice approval workflow in n8n, integrating AI extraction, JSON parsing, and Slack notifications with emoji-based approval routing. [View workflow sample (PDF)]() 
+- **n8n invoice approval workflow** — designed and documented an end-to-end automated invoice approval workflow in n8n, integrating AI extraction, JSON parsing, and Slack notifications with emoji-based approval routing. [View workflow sample (PDF)](https://github.com/RameeshaKhattak/portfolio/blob/main/Workflow%20%26%20Notification%20Logic_RameeshaPortfolio.pdf) 
 
 ## Tools I Work With
 
