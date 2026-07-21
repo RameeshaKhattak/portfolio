@@ -1,6 +1,8 @@
-<img width="1778" height="188" alt="image" src="https://github.com/user-attachments/assets/dda64d88-d9ec-4370-9e26-dde55b2615cd" /># Rameesha Khattak — Technical Writer
+# I turn complex concepts into content people actually read.
 
-I write about SaaS, agentic AI, and cloud computing. 7+ years of turning complex technical concepts into content people actually read: documentation, blogs, books, and conversion copy.
+**Rameesha Khattak** · Technical Writer · SaaS, Agentic AI & Cloud · 7+ years
+
+Documentation, blogs, books, and conversion copy.
 
 This portfolio is built docs-as-code, the same way I like to work: Markdown, Git, and plain clarity.
 
