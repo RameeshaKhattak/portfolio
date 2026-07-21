@@ -38,7 +38,7 @@ Markdown · Git & GitHub · n8n · Strapi · React & Tailwind CSS · AWS · Clau
 Sample: the homepage rebuilt as a working mockup (company name fictionalized). [View homepage mockup](https://rameeshakhattak.github.io/portfolio/Homepage_Mockup_Software_Company.html))
 
 ### Automation
-- **n8n invoice approval workflow** - n8n invoice approval workflow - end-to-end automated approval workflow integrating AI extraction, JSON parsing, and Slack notifications with emoji-based approval routing. [View workflow sample (PDF)](Workflow_%26_Notification_Logic_RameeshaPortfolio.pdf) 
+- **n8n invoice approval workflow** - end-to-end automated approval workflow integrating AI extraction, JSON parsing, and Slack notifications with emoji-based approval routing. [View workflow sample (PDF)](Workflow_%26_Notification_Logic_RameeshaPortfolio.pdf) 
 
 
 ## Work With Me
