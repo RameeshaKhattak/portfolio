@@ -8,11 +8,11 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 
 ## What I Write
 
-- **Technical documentation** — SRS documents, user manuals, help center content
-- **Technical blogs** — SaaS, AI, automation, and cloud topics
-- **Books** — published and ghostwritten technical books
-- **Conversion copy** — landing pages and website copy for SaaS companies
-- **API and docs-as-code content** — Markdown-first workflows
+- **Technical documentation**- SRS documents, user manuals, help center content
+- **Technical blogs**- SaaS, AI, automation, and cloud topics
+- **Books**- published and ghostwritten technical books
+- **Conversion copy**- landing pages and website copy for SaaS companies
+- **API and docs-as-code content**- Markdown-first workflows
 
 ## Featured Work
 
