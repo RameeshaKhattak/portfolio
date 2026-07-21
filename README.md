@@ -1,18 +1,29 @@
-# I turn complex concepts into content people actually read.
+banner
 
-**Rameesha Khattak** · Technical Writer · SaaS, Agentic AI & Cloud · 7+ years
+I write the documentation, technical content, and developer-facing resources that help software products get understood, adopted, and maintained.
 
-Documentation, blogs, books, and conversion copy.
-
-This portfolio is built docs-as-code, the same way I like to work: Markdown, Git, and plain clarity.
+This portfolio is built as docs-as-code using Markdown and Git because good documentation should be treated like software.
 
 ## What I Write
 
-- **Technical documentation**- SRS documents, user manuals, help center content
-- **Technical blogs**- SaaS, AI, automation, and cloud topics
-- **Books**- published and ghostwritten technical books
-- **Conversion copy**- landing pages and website copy for SaaS companies
-- **API and docs-as-code content**- Markdown-first workflows
+- **Technical documentation** - SRS documents, user manuals, help center content
+- **Technical blogs** - SaaS, AI, automation, and cloud topics
+- **Books** - published and ghostwritten technical books
+- **Conversion copy** - landing pages and website copy for SaaS companies
+- **API and docs-as-code content** - Markdown-first workflows
+
+| | |
+|---|---|
+| **📄 Technical documentation** SRS, user manuals, help center content
+| **✍️ Technical blogs** SaaS, AI, automation, and cloud topics |
+| **📚 Books** published and ghostwritten technical books
+| **🎯 Conversion copy** landing pages, website copy for SaaS companies |
+| ** API and docs-as-code content** - Markdown-first workflows|
+
+
+
+
+
 
 ## Featured Work
 
