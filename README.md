@@ -1,4 +1,4 @@
-# Rameesha Khattak — Technical Writer
+<img width="1778" height="188" alt="image" src="https://github.com/user-attachments/assets/dda64d88-d9ec-4370-9e26-dde55b2615cd" /># Rameesha Khattak — Technical Writer
 
 I write about SaaS, agentic AI, and cloud computing. 7+ years of turning complex technical concepts into content people actually read: documentation, blogs, books, and conversion copy.
 
@@ -23,6 +23,9 @@ This portfolio is built docs-as-code, the same way I like to work: Markdown, Git
 
 ### Blogs
 - **SEO-optimized technical blogs on agentic AI and SaaS** — published pieces covering agentic AI workflows, SDaaS, and AI-generated code quality, written for a Germany-based SaaS company with keyword research and SERP analysis. [View blogs](./blogs/)
+
+### Articles
+- **n8n workflow documentation article** - wrote about what to document in an automation workflow before handing it to another developer, published on Dev.to. [Read the article](https://dev.to/meesha_khattak/i-built-an-invoice-approval-workflow-in-n8n-heres-what-id-document-before-handing-it-to-another-374p)
 
 ### Copywriting
 - **Website copy for a Germany-based SDaaS company** — wrote and audited copy across all pillar pages (homepage, landing, subscription, blog, and about pages) with on-page SEO. As a sample, here is the homepage copy rebuilt as a working mockup (company name fictionalized): [View homepage mockup](https://rameeshakhattak.github.io/portfolio/Homepage_Mockup_Software_Company.html))
