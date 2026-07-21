@@ -1,6 +1,4 @@
-# Technical writing for software teams.
-
-**Rameesha Khattak** · Technical Writer · SaaS, Agentic AI & Cloud Computing · 7+ years
+![Rameesha Khattak - Technical Writer](portfolio_banner.png)
 
 I write the documentation, technical content, and developer-facing resources that help software products get understood, adopted, and maintained.
 
