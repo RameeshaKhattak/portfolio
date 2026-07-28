@@ -1,7 +1,5 @@
 ![Rameesha Khattak - Technical Writer](portfolio_banner.png)
 
-Technical writer for SaaS, agentic AI, and cloud companies.
-
 I write the documentation, technical content, and developer-facing resources that help software products get understood, adopted, and maintained.
 
 This portfolio is built as docs-as-code using Markdown and Git because good documentation should be treated like software.
@@ -40,17 +38,6 @@ Sample: the homepage rebuilt as a working mockup (company name fictionalized). [
 
 ### Automation
 - **n8n invoice approval workflow** - end-to-end automated approval workflow integrating AI extraction, JSON parsing, and Slack notifications with emoji-based approval routing. [View workflow sample (PDF)](Workflow_%26_Notification_Logic_RameeshaPortfolio.pdf) 
-
-## Featured Work
-
-| Project | Type & Stack | What it does | Link |
-|---|---|---|---|
-| SRS for a government filing system (ITELAA, KPITB) | Requirements documentation | Specifies fifteen registers, user classes, interfaces and nonfunctional requirements for digitizing paper-based station filing | [View PDF](Sanitized_Itella_srs.pdf) |
-| User Manual, Company Evaluation Form (KPITB) | End-user documentation | Walks a non-technical applicant through all five form steps, from required documents to submission | [View PDF](Sanitized_User_manual_for_Company_evalution_form.pdf) |
-| n8n invoice approval workflow | Workflow documentation, n8n, JSON, Slack | Documents the approval logic and notification routing another developer would need to take the workflow over | [View PDF](Workflow_%26_Notification_Logic_RameeshaPortfolio.pdf) |
-| Website content strategy and rewrite, SDaaS company | Conversion copy, on-page SEO | Rebuilt pillar page messaging around buyer objections rather than service lists | [View mockup](https://rameeshakhattak.github.io/portfolio/Homepage_Mockup_Software_Company.html) |
-| Technical blogs, Germany-based SDaaS company | SEO content, agentic AI and SDaaS | Published pieces backed by keyword research and SERP analysis, indexed and live | [View blogs](blogs) |
-| AWS certification guides and ghostwritten titles | Long-form technical books | Self-published AWS guides on KDP plus ghostwritten ITIL 4 and project management titles | [View books](books) |
 
 
 ## Work With Me
