@@ -1,5 +1,6 @@
 ![Rameesha Khattak - Technical Writer](portfolio_banner.png)
 
+Technical writer for SaaS, agentic AI, and cloud companies.
 
 I write the documentation, technical content, and developer-facing resources that help software products get understood, adopted, and maintained.
 
