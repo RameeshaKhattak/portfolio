@@ -2,7 +2,13 @@
 
 # B2B LinkedIn Ghostwriting
 
-Short-form thought leadership for founders and technical leaders, written in the client's voice.
+Ghostwritten LinkedIn content for founders and technical leaders across SaaS, DevOps, and cloud, written in each client's own voice for a B2B audience.
+
+Technical founders usually have strong opinions but little time to shape them into content that lands with senior buyers. Working from a short brief or a set of raw ideas, I turn those opinions into clear, credible posts that build authority and open real conversations, without sounding generic or AI-written.
+
+This work also includes managing a Germany-based SaaS company's LinkedIn presence for two years.
+
+Samples are shared with permission. All client work is kept confidential.
 
 ## Samples
 
