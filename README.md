@@ -15,7 +15,7 @@ This portfolio is built as docs-as-code using Markdown and Git because good writ
 
 ## Tools I Work With
 
-Markdown · Git & GitHub · n8n · Strapi · React & Tailwind CSS · AWS · Claude & AI-assisted workflows
+Markdown · Git & GitHub · Strapi · React & Tailwind CSS · n8n · Claude · ChatGPT · AI-assisted workflows
 
 ## Featured Work
 
